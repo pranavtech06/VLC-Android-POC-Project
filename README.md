@@ -26,7 +26,6 @@ Tech Stack
 
 Setup & Run
 1. Clone the repo
- cd vlc-video-player
 2. Open in Android Studio
 3. Add LibVLC dependency
  Make sure to add the official LibVLC SDK as a .aar or via Maven in your build.gradle.
